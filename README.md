@@ -9,3 +9,5 @@ Temi per Windows custom creati in due secondi ;)
 	-Aggiornamento automatico dello sofondo (fonte: profilo Flickr SpaceX)
 	-Sfondo esteso
 	-Cambio automatico del colore
+
+3) ...

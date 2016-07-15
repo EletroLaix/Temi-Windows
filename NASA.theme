@@ -1,0 +1,24 @@
+[[Theme]
+DisplayName=NASA
+
+
+[Slideshow]
+Interval=60000
+Shuffle=1
+RssFeed = https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss
+
+
+[Control Panel\Desktop]
+MultimonBackgrounds=0
+PicturePosition=5
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+Transparency=1
+
+
+[MasterThemeSelector]
+MTSM=DABJDKT

@@ -1,0 +1,24 @@
+[[Theme]
+DisplayName=SpaceX
+
+
+[Slideshow]
+Interval=600000
+Shuffle=1
+RssFeed = https://api.flickr.com/services/feeds/photos_public.gne?id=130608600@N05
+
+
+[Control Panel\Desktop]
+MultimonBackgrounds=0
+PicturePosition=5
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+Transparency=1
+
+
+[MasterThemeSelector]
+MTSM=DABJDKT
